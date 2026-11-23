@@ -1,0 +1,9 @@
+/root/                     ← home di server kerja Sarbot
+└── mfun/
+    ├── submit/            ← PAKET FINAL SIAP UPLOAD ✅
+    │   ├── main.ts        (4.559 byte)
+    │   └── LICENSE        (1.065 byte)
+    └── vm/
+        └── tiny-stack-vm-01-run-20261122-kit/   ← kit resmi dari make.fun
+            ├── RULES.txt, practice/, scorer/ dll
+            └── entry/     ← versi kerja + hasil verifikasi
